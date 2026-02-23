@@ -1,6 +1,8 @@
 https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+
 https://simonwillison.net/2026/Jan/30/moltbook/
 
+https://simonwillison.net/2025/Nov/6/async-code-research/
 
 
 # PowerShell
