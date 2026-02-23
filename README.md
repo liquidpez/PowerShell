@@ -1,3 +1,8 @@
+https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+https://simonwillison.net/2026/Jan/30/moltbook/
+
+
+
 # PowerShell
 
 This repository is used for all my public scripts.
